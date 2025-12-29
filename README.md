@@ -2,7 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrpiay/TerMinAll/blob/main/TerMinAll.ipynb)
 
-Learn essential command-line text processing tools: **CAT**, **FIND**, **LS**, **HEAD/TAIL**, **SED**, **GREP**, and **AWK**.
+Ever watched someone transform text files with a few keystrokes and thought, "I should know how to do that"?
+
+I created TerMinAll to bridge that gap - a hands-on tutorial for mastering **CAT**, **FIND**, **LS**, **HEAD/TAIL**, **SED**, **GREP** and **AWK**.
 
 ## Quick Start
 
@@ -15,7 +17,7 @@ Click the badge above to open in Google Colab:
 ## What You'll Learn
 
 - ✅ **CAT** - View and concatenate files
-- ✅ **FIND** - Locate files by name, size, or date
+- ✅ **FIND** - Locate files by name, size or date
 - ✅ **LS** - List directory contents
 - ✅ **HEAD/TAIL** - Preview file content
 - ✅ **SED** - Transform text (find/replace, delete, insert)
