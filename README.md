@@ -1,6 +1,6 @@
 # TerMinAll: Command-Line Text Processing Tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/TerMinAll/blob/main/TerMinAll.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrpiay/TerMinAll/blob/main/TerMinAll.ipynb)
 
 Learn essential command-line text processing tools: **CAT**, **FIND**, **LS**, **HEAD/TAIL**, **SED**, **GREP**, and **AWK**.
 
