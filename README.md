@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrpiay/TerMinAll/blob/main/TerMinAll.ipynb)
 
-Ever watched someone transform text files with a few keystrokes and thought, "I should know how to do that"?
+Ever watched someone transform text files with a few keystrokes and thought, "**I should know how to do that**"?
 
 I created TerMinAll to bridge that gap - a hands-on tutorial for mastering **CAT**, **FIND**, **LS**, **HEAD/TAIL**, **SED**, **GREP** and **AWK**.
 
