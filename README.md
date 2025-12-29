@@ -1,19 +1,16 @@
 # TerMinAll: Command-Line Text Processing Tutorial
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/TerMinAll/blob/main/TerMinAll_Colab_Tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/TerMinAll/blob/main/TerMinAll.ipynb)
 
 Learn essential command-line text processing tools: **CAT**, **FIND**, **LS**, **HEAD/TAIL**, **SED**, **GREP**, and **AWK**.
 
 ## Quick Start
 
-**Option 1: Google Colab (Recommended)**
-- Click the badge above to open in Google Colab
-- All setup is automatic - just run the cells!
-- No installation needed
-
-**Option 2: Interactive HTML**
-- Open `TUTORIAL.html` in your browser for an interactive tutorial with sidebar navigation
-- Or use `TUTORIAL-PRINT.html` for a print-friendly version
+Click the badge above to open in Google Colab:
+- ✅ All setup is automatic - just run the cells!
+- ✅ No installation needed
+- ✅ Run examples in your browser
+- ✅ Practice with 10 exercises
 
 ## What You'll Learn
 
@@ -30,7 +27,7 @@ Learn essential command-line text processing tools: **CAT**, **FIND**, **LS**, *
 
 - 📚 **Comprehensive Tutorial** - From basics to expert level
 - 💻 **Interactive Notebook** - Run examples in Google Colab
-- 🎯 **12 Practice Exercises** - Test your skills with solutions
+- 🎯 **10 Practice Exercises** - Test your skills with solutions
 - 📊 **Real Data** - Work with logs, CSV, JSON files
 - 🚀 **Progressive Learning** - 4 difficulty levels
 
@@ -38,13 +35,11 @@ Learn essential command-line text processing tools: **CAT**, **FIND**, **LS**, *
 
 ```
 TerMinAll/
-├── TerMinAll_Colab_Tutorial.ipynb  # Interactive Google Colab notebook
-├── TUTORIAL.html                    # Interactive HTML tutorial
-├── TUTORIAL-PRINT.html              # Print-friendly version
-└── README.md                        # This file
+├── TerMinAll.ipynb    # Interactive Google Colab notebook
+└── README.md          # This file
 ```
 
-**Note:** The Colab notebook creates all sample data files automatically when you run it!
+**Note:** The notebook creates all sample data files automatically when you run it - no downloads needed!
 
 ## Practice Exercises
 
@@ -54,8 +49,6 @@ The Colab notebook includes exercises at 4 levels:
 - **Level 2: Intermediate** - SED and GREP operations
 - **Level 3: Advanced** - AWK data processing
 - **Level 4: Expert** - Complex pipelines
-
-Each exercise has a hidden solution - try it yourself first!
 
 ## Contributing
 
