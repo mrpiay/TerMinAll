@@ -27,9 +27,8 @@ Click the badge above to open in Google Colab:
 
 - 📚 **Comprehensive Tutorial** - From basics to expert level
 - 💻 **Interactive Notebook** - Run examples in Google Colab
-- 🎯 **10 Practice Exercises** - Test your skills with solutions
+- 🎯 **10 Practice Exercises** -  4 difficulty levels
 - 📊 **Real Data** - Work with logs, CSV, JSON files
-- 🚀 **Progressive Learning** - 4 difficulty levels
 
 ## Repository Structure
 
