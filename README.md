@@ -1,4 +1,4 @@
-# TerMinAll: Command Line Text Processing Tutorial
+# TerMinAll: Command-Line Text Processing Tutorial
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/TerMinAll/blob/main/TerMinAll_Colab_Tutorial.ipynb)
 
